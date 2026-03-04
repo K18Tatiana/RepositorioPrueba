@@ -2,4 +2,4 @@ Este es un nuevo archivo
 
 Nuevo cambio
 
-Probando gitflow
+Probando estrategia environment-based
